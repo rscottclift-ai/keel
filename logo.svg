@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 88" width="360" height="88" role="img" aria-label="KEEL Managed IT">
+  <!-- badge -->
+  <rect x="4" y="22" width="44" height="44" rx="11" fill="#0B2545"/>
+  <!-- waterline -->
+  <line x1="10" y1="40" x2="20" y2="40" stroke="#1F9AA6" stroke-width="1.8" stroke-linecap="round" opacity=".8"/>
+  <line x1="32" y1="40" x2="42" y2="40" stroke="#1F9AA6" stroke-width="1.8" stroke-linecap="round" opacity=".8"/>
+  <!-- hull -->
+  <path d="M16.5 40 H35.5 C34 48 18 48 16.5 40 Z" fill="#fff"/>
+  <!-- keel fin -->
+  <path d="M24.7 46 H27.3 L26.65 52.5 H25.35 Z" fill="#5FC7CE"/>
+  <!-- bulb -->
+  <circle cx="26" cy="53" r="2.1" fill="#5FC7CE"/>
+  <!-- wordmark -->
+  <text x="64" y="53" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="800" letter-spacing="6" fill="#0B2545">KEEL</text>
+  <line x1="168" y1="34" x2="168" y2="54" stroke="#CBD6E0" stroke-width="1.5"/>
+  <text x="182" y="53" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="500" fill="#157B85">Managed IT</text>
+</svg>
